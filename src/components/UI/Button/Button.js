@@ -12,5 +12,5 @@ const button = (props) => {
         </button>
     );
 }
-
-export default button;
+  
+export default button;  
